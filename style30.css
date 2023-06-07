@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #F7EC7D;
+    height: 100px;
+}
+
+h1{
+    background: #E38F66;
+    height: 100px;
+
+}
+main{
+    background: #AA445F;
+    height: 240px;
+}
+footer{
+    background: #62306D;
+    height: 281px;
+}
